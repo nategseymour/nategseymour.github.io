@@ -1,23 +1,23 @@
 body {
-  color: white;
+  color: black;
   font-family: Tahoma, Verdana;
 }
 
 h1 {
-  color: white;
+  color: black;
   font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "ChalkboardSE-Regular", sans-serif;
   font-size: 72px;
 }
 
 h2 {
-  color: white;
+  color: black;
   font-family: "Papyrus", fantasy;
   font-size: 48px;
   line-height: 25px;
 }
 
 h3 {
-  color: white;
+  color: black;
   font-family: "Apple Chancery", cursive;
   font-size: 26px;
 }
