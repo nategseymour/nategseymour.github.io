@@ -1,17 +1,17 @@
 body {
   color: black;
-  font-family: Tahoma, Verdana;
+  font-family: Roboto, Tahoma, Verdana;
 }
 
 h1 {
   color: black;
-  font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "ChalkboardSE-Regular", sans-serif;
+  font-family: "Georgia", serif;
   font-size: 72px;
 }
 
 h2 {
   color: black;
-  font-family: "Papyrus", fantasy;
+  font-family: "Georgia", serif;
   font-size: 48px;
   line-height: 25px;
 }
