@@ -1,4 +1,5 @@
-
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+@import url(http://fonts.googleapis.com/css?family=Bungee+Tint);
 
 body {
   color: black;
@@ -6,22 +7,21 @@ body {
 }
 
 h1 {
-  color: black;
-  font-family: "Georgia", serif;
-  font-size: 72px;
+    color: black;
+    font-family: "Bungee Tint"
+    font-size: 72px;
 }
 
 h2 {
-  color: black;
-  font-family: "Georgia", serif;
-  font-size: 48px;
-  line-height: 25px;
+    color: black;
+    font-family: Roboto, Tahoma, Verdana;
+    font-size: 48px;
 }
 
 h3 {
-  color: black;
-  font-family: "Apple Chancery", cursive;
-  font-size: 26px;
+    color: black;
+    font-family: "Apple Chancery", cursive;
+    font-size: 26px;
 }
 
  /* Add a grey background color to the top navigation */
