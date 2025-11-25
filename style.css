@@ -2,8 +2,12 @@
 @import url(http://fonts.googleapis.com/css?family=Bungee+Tint);
 
 body {
-  color: black;
-  font-family: Roboto, Tahoma, Verdana;
+    color: black;
+    font-family: Roboto, Tahoma, Verdana;
+    background-image: "/images/waterBg01.gif"
+    background-position: center center;
+    background-repeat: repeat;
+    background-size: 4em;
 }
 
 h1 {
